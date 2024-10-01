@@ -1,4 +1,4 @@
-![Banner](https://github.com/kichkiro/42_cursus/blob/assets/banner_push_swap.jpg?raw=true)
+<img src="https://github.com/kichkiro/42_cursus/blob/assets/banner_push_swap.jpg?raw=true" width="100%"/>
 
 # Push Swap
 
