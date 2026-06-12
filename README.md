@@ -1,4 +1,4 @@
-<img src="https://github.com/kichkiro/42_cursus/blob/assets/banner_push_swap.jpg?raw=true" width="100%"/>
+<img src="https://github.com/kichkiro/kichkiro/blob/main/assets/banner_push_swap.jpg?raw=true" width="100%"/>
 
 # Push Swap
 
@@ -137,11 +137,11 @@ The algorithm is divided into three steps:
 
 [push_swap_visualizer](https://github.com/o-reo/push_swap_visualizer)
 
-<img src="https://github.com/kichkiro/42_cursus/blob/assets/push_swap_visualizer.gif?raw=true" alt="push_swap_visualizer" width="100%"/>
+<img src="https://github.com/kichkiro/kichkiro/blob/main/assets/push_swap_visualizer.gif?raw=true" alt="push_swap_visualizer" width="100%"/>
 
 [push_swap_tester](https://github.com/LeoFu9487/push_swap_tester)
 
-<img src="https://github.com/kichkiro/42_cursus/blob/assets/push_swap_tester.png?raw=true" alt="push_swap_tester" width="100%"/>
+<img src="https://github.com/kichkiro/kichkiro/blob/main/assets/push_swap_tester.png?raw=true" alt="push_swap_tester" width="100%"/>
 
 ## ⚖️ - License
 
